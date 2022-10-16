@@ -4,6 +4,7 @@
     --secondary-color: #5169a7;
     --terciary-color: #55178a;
     --text-color: #1e212d;
+    --hover-color: #d86400;
 }
 
 body {
@@ -89,14 +90,19 @@ input {
     margin-left: 0;
 }
 
-div > a {
-    display: inline-block;
+a > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     box-sizing: border-box;
     border-radius: 50%;
     background-color: var(--terciary-color);
     width: 30px;
     height: 30px;
-    padding: 6px;
+    color: var(--primary-color);
+    font-size: 2rem;
+    line-height: 1;
+    font-weight: bold;
 }
 
 section:first-of-type h2 {
@@ -110,6 +116,10 @@ section li {
     margin-bottom: 0.5rem;
 }
 
+section li:hover {
+    color: var(--hover-color);
+}
+
 section li:first-of-type label,
 section li:last-of-type label {
     text-decoration: line-through;
@@ -121,8 +131,10 @@ section label + div {
     align-items: center;
 }
 
-section label + div img {
+section label + div span {
     margin-left: 0.5rem;
+    font-size: 2rem;
+    font-weight: bold;
 }
 
 section:last-of-type {
