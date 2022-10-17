@@ -8,17 +8,59 @@
             name="description"
             content="Challenge week2 - Bootcamp Frontend ISDI CODERS"
         />
-        <title>Challenge W2</title>
+        <title>Challenge W2 - Edit product</title>
         <link
             rel="shortcut icon"
             href="assets/favicon.ico"
             type="image/x-icon"
         />
-        <link rel="stylesheet" href="style.css" />
+        <link rel="stylesheet" href="styles.css" />
     </head>
     <body>
-        <header></header>
-        <main></main>
-        <footer></footer>
+        <header>
+            <nav>
+                <h1>Lista de la compra</h1>
+                <ul>
+                    <li><a href="#">Principal</a></li>
+                    <li><a href="#">Lista</a></li>
+                    <li><a href="#">Acerca de</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section>
+                <a href="index.html">
+                    <div>−</div>
+                </a>
+                <h2>2/3 Comprados</h2>
+            </section>
+            <section>
+                <h2>Editar artículo</h2>
+                <form>
+                    <label>
+                        Nombre
+                        <input type="text" name="name" />
+                    </label>
+                    <label>
+                        Precio
+                        <input type="text" name="price" />
+                    </label>
+                    <button type="button">Modificar</button>
+                </form>
+            </section>
+        </main>
+        <footer>
+            <address>
+                <p>
+                    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+                        <img
+                            style="border: 0; width: 88px; height: 31px"
+                            src="http://jigsaw.w3.org/css-validator/images/vcss"
+                            alt="¡CSS Válido!"
+                        />
+                    </a>
+                </p>
+            </address>
+        </footer>
     </body>
 </html>
