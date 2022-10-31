@@ -1,4 +1,4 @@
-<img align="right" width="249" height="164" alt="ISDI CODER LOGO" src="/assets/isdi_logo.jpg">
+<img align="right" width="179" height="118" alt="ISDI CODER LOGO" src="/assets/isdi_logo.jpg">
 
 # :zap: Challenge Week 2
 
