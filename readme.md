@@ -5,9 +5,10 @@
 ## Maquetación "Lista de la compra"
 
 Dado un diseño específico, maquetar en **_HTML_** y **_CSS_** una aplicación web para gestionar la lista de la compra.
-<img align="left" width="300" height="305" alt="Design list" src="/assets/challenge2_list.jpg">
-<img align="center" width="300" height="300" alt="Design list" src="/assets/challenge2_list-hover.jpg">
-<img align="right" width="300" height="302" alt="Design list" src="/assets/challenge2_form.jpg">
+
+|                                            DESIGN 01                                            |                                                DESIGN 02                                                |                                            DESIGN 03                                             |
+| :---------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
+| <img align="left" width="200" height="205" alt="Design list" src="/assets/challenge2_list.jpg"> | <img align="center" width="200" height="200" alt="Design list" src="/assets/challenge2_list-hover.jpg"> | <img align="right" width="200" height="202" alt="Design list" src="/assets/challenge2_form.jpg"> |
 
 ## Requisitos
 
