@@ -1,10 +1,13 @@
 # :zap: Challenge Week 2
 
-<img align="right" width="249" height="123" alt="ISDI CODER LOGO" src="/assets/isdi_logo.jpg">
+<img align="right" width="249" height="164" alt="ISDI CODER LOGO" src="/assets/isdi_logo.jpg">
 
 ## Maquetación "Lista de la compra"
 
 Dado un diseño específico, maquetar en **_HTML_** y **_CSS_** una aplicación web para gestionar la lista de la compra.
+<img align="left" width="300" height="305" alt="Design list" src="/assets/challenge2_list.jpg">
+<img align="center" width="300" height="300" alt="Design list" src="/assets/challenge2_list-hover.jpg">
+<img align="right" width="300" height="302" alt="Design list" src="/assets/challenge2_form.jpg">
 
 ## Requisitos
 
@@ -15,7 +18,7 @@ Dado un diseño específico, maquetar en **_HTML_** y **_CSS_** una aplicación 
 -   [x] Para el **_CSS_** utiliza el menor número de clases posibles. Como máximo a nivel de `<main>` y `<section>`. Aprovecha la potencia de otros selectores.
 -   [x] Valida también el **_CSS_** en W3C. Después incorpora el logo que te ofrecen en un `<footer>` de las páginas, del mismo aspecto que el `<header>`.
 
-> En el challenge se ponen a prueba los conocimientos previos de **_CSS_**, que serán revisados con detalle en la siguiente sesión. Si conoces flex, puedes utilizarlo, pero también puedes maquetar con otros displays.
+> _En el challenge se ponen a prueba los conocimientos previos de CSS, que serán revisados con detalle en la siguiente sesión. Si conoces flex, puedes utilizarlo, pero también puedes maquetar con otros displays._
 
 ## Resultado
 
